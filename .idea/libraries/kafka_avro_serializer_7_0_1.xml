@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="kafka-avro-serializer-7.0.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/kafka-avro-serializer-7.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
